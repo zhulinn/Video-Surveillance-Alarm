@@ -5,8 +5,7 @@ Video Surveillance Alarm System
 
 <p align="center">
   <img src="https://github.com/zhulinn/Video-Surveillance-Alarm/raw/master/pic/Design.png">
+  <img src="https://github.com/zhulinn/Video-Surveillance-Alarm/raw/master/pic/captor.jpg">
+  <img src="https://github.com/zhulinn/Video-Surveillance-Alarm/raw/master/pic/monitor.png">
+  <img src="https://github.com/zhulinn/Video-Surveillance-Alarm/raw/master/pic/demo.png">
 </p>
-![](https://github.com/zhulinn/Video-Surveillance-Alarm/raw/master/pic/Design.png)<br>
-![](https://github.com/zhulinn/Video-Surveillance-Alarm/raw/master/pic/captor.jpg)
-![](https://github.com/zhulinn/Video-Surveillance-Alarm/raw/master/pic/monitor.jpg)<br>
-![](https://github.com/zhulinn/Video-Surveillance-Alarm/raw/master/pic/demo.png)
