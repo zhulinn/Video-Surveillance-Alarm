@@ -6,6 +6,6 @@ Video Surveillance Alarm System
 <p align="center">
   <img src="https://github.com/zhulinn/Video-Surveillance-Alarm/raw/master/pic/Design.png">
   <img src="https://github.com/zhulinn/Video-Surveillance-Alarm/raw/master/pic/captor.jpg">
-  <img src="https://github.com/zhulinn/Video-Surveillance-Alarm/raw/master/pic/monitor.png">
+  <img src="https://github.com/zhulinn/Video-Surveillance-Alarm/raw/master/pic/monitor.jpg">
   <img src="https://github.com/zhulinn/Video-Surveillance-Alarm/raw/master/pic/demo.png">
 </p>
