@@ -2,7 +2,7 @@
 ------------------------------------------------
 2016 Intel Cup undergraduate electronic design contest - Embedded System Design Invitational Contest
 
-<hr>
+<hr></hr>
 ### Features:
 - Image Capture
 - Anomaly Detection
